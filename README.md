@@ -15,7 +15,7 @@ Galeria
   <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/World-Vaccination-Covid19/World-Vaccination-Covid19.png" width="25.6%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/tree/main/Brasil-WorldCup/"> 
-  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Brasil-WorldCup/brasil-world-cup.png" width="34.4%" /> 
+  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Brasil-WorldCup/Brasil-WorldCup.png" width="34.4%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Major-Disease-Outbreaks/"> 
   <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Major-Disease-Outbreaks/Maiores-Pand-Epid.png" width="31%" /> 
