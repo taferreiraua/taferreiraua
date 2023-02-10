@@ -24,7 +24,7 @@ Galeria
   <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Mandalorian-Directors/Mandalorian-Directors.png" width="23.63%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/tree/main/Nepal-Plane-Crashes/"> 
-  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Nepal-Plane-Crashes/Nepal-Airplane-Crashes.png" width="49%" /> 
+  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Nepal-Plane-Crashes/Nepal-Airplane-Crashes.png" width="49.9%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/tree/main/Tesla-Deaths"> 
-  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Tesla-Deaths/Tesla-Deaths.png" width="39%" /> 
+  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Tesla-Deaths/Tesla-Deaths.png" width="39.6%" /> 
