@@ -9,7 +9,7 @@ Galeria
 ---
 <p align= "center">
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Star-Wars-Attribute-Matrix/"> 
-  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Star-Wars-Attribute-Matrix/star-wars-attribute-matrix.png" width="40%" /> 
+  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Star-Wars-Attribute-Matrix/Star-Wars-Attribute-Matrix.png" width="40%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/tree/main/World-Vaccination-Covid19"> 
   <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/World-Vaccination-Covid19/World-Vaccination-Covid19.png" width="25.6%" /> 
