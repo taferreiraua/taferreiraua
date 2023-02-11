@@ -3,7 +3,6 @@ Oi, eu sou a Thays!
 Data Scientist em andamento... :ok_woman: 
 - :rainbow: **Pronomes**: Ela/Dela 
 - :computer: **Coding**: R, Python, SQL, Shiny
-- :pushpin: **Aprendendo atualmente**: Design de visualização de dados
 
 Galeria
 ---
