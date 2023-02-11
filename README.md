@@ -15,16 +15,16 @@ Galeria
   <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/World-Vaccination-Covid19/World-Vaccination-Covid19.png" width="25.6%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/tree/main/Brasil-WorldCup/Brasil-WorldCup.png"> 
-  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Brasil-WorldCup/Brasil-WorldCup.png" width="34.4%" /> 
+  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Brasil-WorldCup/Brasil-WorldCup.png" width="37.17%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Major-Disease-Outbreaks/Maiores-Pand-Epid.png"> 
-  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Major-Disease-Outbreaks/Maiores-Pand-Epid.png" width="31%" /> 
+  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Major-Disease-Outbreaks/Maiores-Pand-Epid.png" width="33.64%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/tree/main/Mandalorian-Directors/Mandalorian-Directors.png"> 
-  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Mandalorian-Directors/Mandalorian-Directors-Plot.png" width="23.63%" /> 
+  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Mandalorian-Directors/Mandalorian-Directors-Plot.png" width="26.634%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/tree/main/Nepal-Plane-Crashes/Nepal-Airplane-Crashes.png"> 
-  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Nepal-Plane-Crashes/Nepal-Airplane-Crashes.png" width="49.9%" /> 
+  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Nepal-Plane-Crashes/Nepal-Airplane-Crashes.png" width="54.568%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/tree/main/Tesla-Deaths/Tesla-Deaths.png"> 
-  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Tesla-Deaths/Tesla-Deaths.png" width="39.6%" /> 
+  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Tesla-Deaths/Tesla-Deaths.png" width="43.25%" /> 
