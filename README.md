@@ -21,7 +21,7 @@ Galeria
   <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Major-Disease-Outbreaks/Maiores-Pand-Epid.png" width="31%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/tree/main/Mandalorian-Directors/Mandalorian-Directors.png"> 
-  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Mandalorian-Directors/Mandalorian-Directors.png" width="23.63%" /> 
+  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Mandalorian-Directors/Mandalorian-Directors-Plot.png" width="23.63%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/tree/main/Nepal-Plane-Crashes/Nepal-Airplane-Crashes.png"> 
   <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Nepal-Plane-Crashes/Nepal-Airplane-Crashes.png" width="49.9%" /> 
