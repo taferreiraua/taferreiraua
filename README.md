@@ -8,10 +8,12 @@ Galeria
 ---
 <p align= "center">
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Star-Wars-Attribute-Matrix/Star-Wars-Attribute-Matrix.png"> 
-  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Star-Wars-Attribute-Matrix/Star-Wars-Attribute-Matrix.png" width="40%" /> 
+  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Star-Wars-Attribute-Matrix/Star-Wars-Attribute-Matrix.png" width="47.3%" /> 
+  <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Brasil-ONS/Brasil-ONS.png"> 
+  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Brasil-ONS/Brasil-ONS.png" width="19.67%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/tree/main/World-Vaccination-Covid19/World-Vaccination-Covid19.png"> 
-  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/World-Vaccination-Covid19/World-Vaccination-Covid19.png" width="25.6%" /> 
+  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/World-Vaccination-Covid19/World-Vaccination-Covid19.png" width="30.37%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/tree/main/Brasil-WorldCup/Brasil-WorldCup.png"> 
   <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Brasil-WorldCup/Brasil-WorldCup.png" width="37.17%" /> 
