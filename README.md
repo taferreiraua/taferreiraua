@@ -13,7 +13,7 @@ Galeria
   <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Brasil-ONS/Brasil-ONS.png"> 
   <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Brasil-ONS/Brasil-ONS.png" width="18.83%" /> 
         </a>
-  <a href="https://github.com/taferreiraua/TidyTuesday/blob/main/2023/W10/07-03-2023-numbats.R"> 
+  <a href="https://github.com/taferreiraua/TidyTuesday/blob/main/2023/W10/07-03-2023-Numbats.R"> 
   <img src="https://github.com/taferreiraua/TidyTuesday/blob/main/2023/W10/07-03-2023-numbats.png" width="33.25%" /> 
         </a>
     
