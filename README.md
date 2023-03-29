@@ -1,6 +1,5 @@
 Oi, eu sou a Thays!
 ---
-- :rainbow: **Pronomes**: Ela/Dela 
 - :computer: **Coding**: R, Python, SQL, Shiny
 
 Galeria
