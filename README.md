@@ -9,7 +9,7 @@ Galeria
   <img src="https://github.com/taferreiraua/30DayChartChallenge/blob/main/Day4/Nepal-Plane-Crashes.png" width="37.8%" /> 
         </a>
   <a href="https://github.com/taferreiraua/Data-Viz/blob/main/Brasil-ONS/Brasil-ONS.R"> 
-  <img src="https://github.com/taferreiraua/Data-Viz/blob/main/Brasil-ONS/Brasil-ONS.png" width="17.65%" /> 
+  <img src="https://github.com/taferreiraua/Data-Viz/blob/main/Brasil-ONS/BrasilONS.png" width="17.65%" /> 
         </a>
   <a href="https://github.com/taferreiraua/30DayChartChallenge/blob/main/Day1/Deaths-Tarantino.R"> 
   <img src="https://github.com/taferreiraua/30DayChartChallenge/blob/main/Day1/Deaths-Tarantino.png" width="35.4%" /> 
