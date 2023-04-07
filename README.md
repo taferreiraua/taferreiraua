@@ -1,6 +1,6 @@
 Oi, eu sou a Thays!
 ---
-- :computer: **Coding**: R, Python, SQL, Shiny
+- **Coding**: R, Python, SQL
 
 Galeria
 ---
