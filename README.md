@@ -1,6 +1,10 @@
 Oi, eu sou a Thays!
 ---
-- **Coding**: R, Python, SQL
+
+- 🧑‍🎓 Estudando Ciência de Dados na Universidade Federal do Ceará;
+- 💻 **Linguagens**: R, Python e SQL.
+
+
 
 Galeria
 ---
