@@ -17,13 +17,10 @@ Compartilhando atividades e projetos realizados durante minha graduação.
   
   <a href="https://github.com/taferreiraua/30DayChartChallenge/blob/main/Day1/Deaths-Tarantino.R"> 
   <img src="https://github.com/taferreiraua/30DayChartChallenge/blob/main/Day1/Deaths-Tarantino.png" width="178" /></a>
-  
-  <a href="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Van-Gogh-Styles/Van-Gogh-Styles-Subjects.R"> 
-  <img src="https://github.com/taferreiraua/Estudos-de-Exploracao-e-Visualizacao-de-Dados/blob/main/Van-Gogh-Styles/Van-Gogh-Styles-Subjects.png" width="120" /></a>
 
   <a href="https://github.com/taferreiraua/TidyTuesday/blob/main/2023/W10/07-03-2023-Numbats.R"> 
   <img src="https://github.com/taferreiraua/TidyTuesday/blob/main/2023/W10/07-03-2023-numbats.png" width="156.85" /></a>
   
   <a href="https://github.com/taferreiraua/30DayChartChallenge/blob/main/Day6/city-population.R"> 
-  <img src="https://github.com/taferreiraua/30DayChartChallenge/blob/main/Day6/city-population.png" width="122" /></a> 
+  <img src="https://github.com/taferreiraua/30DayChartChallenge/blob/main/Day6/city-population.png" width="142" /></a> 
   
