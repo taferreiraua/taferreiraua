@@ -22,4 +22,4 @@ Compartilhando atividades e projetos realizados durante minha graduação.
   <img src="https://github.com/taferreiraua/30DayChartChallenge/blob/main/Day6/city-population.png" width="144" />
   
   <a href="https://github.com/taferreiraua/TidyTuesday/blob/main/2023/W13/27-03-2023-Time-Zones.R"> 
-  <img src="https://github.com/taferreiraua/TidyTuesday/blob/main/2023/W13/27-03-2023-Time-Zones.png" width="169" />
+  <img src="https://github.com/taferreiraua/TidyTuesday/blob/main/2023/W13/27-03-2023-Time-Zones.png" width="169.5" />
