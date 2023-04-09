@@ -1,4 +1,4 @@
-## Oi, eu sou a Thays!
+# Oi, eu sou a Thays!
 
 - 🧑‍🎓 Estudando **Ciência de Dados**;
 - 💻 Programo em **R, Python** e **SQL**;
@@ -6,7 +6,7 @@
 
 Compartilhando atividades e projetos realizados durante minha graduação.
 
-### _#DataViz_
+## _#DataViz_
 
 <p align= "center">
   <a href="https://github.com/taferreiraua/30DayChartChallenge/blob/main/Day4/Nepal-Plane-Crashes.R"> 
