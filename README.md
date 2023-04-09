@@ -1,7 +1,7 @@
 Oi, eu sou a Thays!
 ---
 
-- 🧑‍🎓 Estudando Ciência de Dados na Universidade Federal do Ceará;
+- 🧑‍🎓 Estudando Ciência de Dados;
 - 💻 **Linguagens**: R, Python e SQL.
 
 
