@@ -25,5 +25,5 @@ Compartilhando atividades e projetos realizados durante minha graduação.
   <img src="https://github.com/taferreiraua/TidyTuesday/blob/main/2023/W10/07-03-2023-numbats.png" width="156.85" /></a>
   
   <a href="https://github.com/taferreiraua/30DayChartChallenge/blob/main/Day6/city-population.R"> 
-  <img src="https://github.com/taferreiraua/30DayChartChallenge/blob/main/Day6/city-population.png" width="142" /></a> 
+  <img src="https://github.com/taferreiraua/30DayChartChallenge/blob/main/Day6/city-population.png" width="122" /></a> 
   
