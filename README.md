@@ -1,10 +1,8 @@
 # Oi, eu sou a Thays!
 
 - 📝 Estudando **Ciência de Dados**
-- 👩‍💻 Programo em **R, Python** e **SQL**
 - 💗 Apaixonada por **visualização de dados**
-
-Compartilhando atividades e projetos realizados durante minha graduação.
+- 👩‍💻 **R + Python + Pyspark + SQL**
 
 ## _#DataViz_
 
